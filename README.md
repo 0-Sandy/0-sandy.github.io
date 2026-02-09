@@ -9,7 +9,8 @@ The website is intentionally simple: it exists as a clean hub of official links 
 - GitHub profile: https://github.com/0-Sandy
 - Better Auth Invite Plugin (repo): https://github.com/0-Sandy/better-auth-invite-plugin
 - Better Auth Invite Plugin (npm): https://www.npmjs.com/package/better-auth-invite-plugin
-- Reddit announcement: https://www.reddit.com/r/better_auth/comments/1qxp7t6/plugin_invite_system_for_better_auth/
+- Reddit announcement: https://www.reddit.com/r/better_auth/comments/1qxp7t6/plugin_invite_system_for_better_auth
+- Dev.to Post: https://dev.to/sandy00/stop-manually-assigning-roles-in-better-auth-use-role-based-invitations-instead-2bd7
 
 ## Website
 
